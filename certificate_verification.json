@@ -4,7 +4,7 @@
     "https://w3id.org/blockcerts/v2"
   ],
   "type": "Profile",
-  "id": "https://euphonious-fenglisu-342b1d.netlify.app/certificate_verification.json",
+  "id": "https://verification.spjimr.org/issuereth.json",
   "name": "Purbid Test",
   "url": "https://verification.spjimr.org",
   "introductionURL": "https://verification.spjimr.org:5000/blockchain/introduction",
