@@ -13,5 +13,7 @@
     }
   ],
   "revocationList": "https://euphonious-fenglisu-342b1d.netlify.app/revocations.json",
-  "image": ""
+  "image": "",
+  "email": "",
+  "description": ""
   }
