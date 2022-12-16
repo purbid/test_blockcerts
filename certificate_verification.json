@@ -10,6 +10,9 @@
   "publicKey": [
     {
       "id": "ecdsa-koblitz-pubkey:0xAa30e9294Fe0018dA70c862b066fa512Dc144b86"
+    },
+    {
+      "id": "ecdsa-koblitz-pubkey:0x7Cb5063cB42358d4C2645B6B24933d8f2039dE66"
     }
   ],
   "revocationList": "https://euphonious-fenglisu-342b1d.netlify.app/revocations.json",
